@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class notchscript : MonoBehaviour {
 	public Text shownotch;
-	public int notch = 0;
+	int notch = 0;
 	public int brake = 0;
 	// Use this for initialization
 	void Start () {
